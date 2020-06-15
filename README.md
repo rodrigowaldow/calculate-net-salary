@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Tela Inicial](https://github.com/rodrigowaldow/calculate-net-salary/blob/master/image.jpg?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
