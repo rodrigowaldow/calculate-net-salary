@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calculate-net-salary/static/css/main.946153c2.chunk.css",
+    "main.js": "/calculate-net-salary/static/js/main.c3a63619.chunk.js",
+    "main.js.map": "/calculate-net-salary/static/js/main.c3a63619.chunk.js.map",
+    "runtime-main.js": "/calculate-net-salary/static/js/runtime-main.58506632.js",
+    "runtime-main.js.map": "/calculate-net-salary/static/js/runtime-main.58506632.js.map",
+    "static/css/2.36020323.chunk.css": "/calculate-net-salary/static/css/2.36020323.chunk.css",
+    "static/js/2.b956a49a.chunk.js": "/calculate-net-salary/static/js/2.b956a49a.chunk.js",
+    "static/js/2.b956a49a.chunk.js.map": "/calculate-net-salary/static/js/2.b956a49a.chunk.js.map",
+    "index.html": "/calculate-net-salary/index.html",
+    "precache-manifest.816ba37e16d334e523728437b27d1d33.js": "/calculate-net-salary/precache-manifest.816ba37e16d334e523728437b27d1d33.js",
+    "service-worker.js": "/calculate-net-salary/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/calculate-net-salary/static/css/2.36020323.chunk.css.map",
+    "static/css/main.946153c2.chunk.css.map": "/calculate-net-salary/static/css/main.946153c2.chunk.css.map",
+    "static/js/2.b956a49a.chunk.js.LICENSE.txt": "/calculate-net-salary/static/js/2.b956a49a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58506632.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.b956a49a.chunk.js",
+    "static/css/main.946153c2.chunk.css",
+    "static/js/main.c3a63619.chunk.js"
+  ]
+}
